@@ -1,6 +1,6 @@
 # cpu-scheduling
 cpu scheduling simulator
-## Write a C-program to implement a simulator with various CPU scheduling algorithms discussed in our classes.
+## Write a C-program to implement a simulator with various CPU scheduling algorithms
 1. First Come First Serve (FCFS)
 2. Round Robin (RR)
 3. Preemptive Priority Scheduling with Aging
@@ -14,3 +14,4 @@ cpu scheduling simulator
 
 ## Ouput
 > Print time-flow (like Gantt chart) and statistical information for each algorithm
+> result : output.txt
