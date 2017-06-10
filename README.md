@@ -13,5 +13,5 @@ cpu scheduling simulator
 > 4. burst_time : the CPU time requested by a task, in the unit of milliseconds
 
 ## Ouput
-> Print time-flow (like Gantt chart) and statistical information for each algorithm
+> Print time-flow (like Gantt chart) and statistical information for each algorithm<br>
 > result : output.txt
